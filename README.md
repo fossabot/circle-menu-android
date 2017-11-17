@@ -4,6 +4,7 @@
 # CircleMenu for Android
 [![Twitter](https://img.shields.io/badge/Twitter-@Ramotion-blue.svg?style=flat)](http://twitter.com/Ramotion)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/42eb7b00b93645c0812c045ab26cb3b7)](https://www.codacy.com/app/dvg4000/circle-menu-android?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ramotion/circle-menu-android&amp;utm_campaign=Badge_Grade)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fcircle-menu-android.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fcircle-menu-android?ref=badge_shield)
 
 # Check this library on other platforms:
 <a href="https://github.com/Ramotion/circle-menu"> 
@@ -136,6 +137,9 @@ Here are the attributes you can specify through XML or related setters:
 ​
 CircleMenu for Android is released under the MIT license.
 See [LICENSE](./LICENSE.md) for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fcircle-menu-android.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fcircle-menu-android?ref=badge_large)
 
 # Get the Showroom App for Android to give it a try
 Try our UI components in our mobile app. Contact us if interested.
